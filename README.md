@@ -47,12 +47,12 @@ Note that PETG tends to stringing. I used the stock hotend components and have d
 
 <img src="img/Washers.JPG" alt="Washers" width="50%" height="50%"/>
 
-`PumpBottomWasher`, `TurnBottomWasher`, `TurnTopWasher` (print in sequence)
+`PumpBottomWasher`, `TurnBottomWasher`, `TurnTopWasher` (no skirt, print in sequence)
 
 
 <img src="img/Shafts.JPG" alt="Shafts" width="50%" height="50%"/>
 
-`TurnShaftPrintGroup`, `PumpShaft` (0.12mm layer height, tree supports touching build plate)
+`TurnShaftPrintGroup`, `PumpShaft` (0.12mm layer height, raft, tree supports touching build plate)
 
 
 <img src="img/AdapterLockCut.JPG" alt="AdapterLockCut" width="50%" height="50%"/>
@@ -62,7 +62,7 @@ Note that PETG tends to stringing. I used the stock hotend components and have d
 
 <img src="img/Whale.JPG" alt="Whale" width="50%" height="50%"/>
 
-`WhaleFinalCut` (0.3mm layer height, tree supports touching build plate, support eraser for mouth and eyes)
+`WhaleFinalCut` (0.3mm layer height, 5mm cubic subdivision infill, tree supports touching build plate, support eraser for mouth and eyes)
 
 
 <img src="img/Locks.JPG" alt="Locks" width="50%" height="50%"/>
